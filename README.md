@@ -1,4 +1,4 @@
-# Machine Learning Techniques for Forecasting Sales
+# Machine Learning Techniques for Forecasting Sales - Uni Project
 
 ## Target
 
