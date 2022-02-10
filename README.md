@@ -8,5 +8,5 @@
 * Code is heavily influenced by common practices found from across diffenet platforms. Goal is to learn-by-doing.
 * Orginality and novelty comes with practice.
 
-“Humanity is OK, but 99% of people are boring idiots.”
+“…I am a good Hegelian. If you have a good theory, forget about the reality.”
 ― Slavoj Žižek
